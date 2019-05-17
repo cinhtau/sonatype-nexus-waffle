@@ -4,7 +4,7 @@ This is an example how to setup security for Sonatype Nexus Repository Manager O
 
 Since it is a proof of concept start Nexus as Docker container.
 
-Sonatype offers a OpenShift compatible docker image. See also [the Docker configuration](https://github.com/sonatype/docker-nexus3).
+Sonatype offers an OpenShift compatible docker image. See also [the Docker configuration](https://github.com/sonatype/docker-nexus3).
 
 To start in foreground
 
