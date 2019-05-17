@@ -4,7 +4,7 @@ This is an example how to setup security for Sonatype Nexus Repository Manager O
 
 Since it is a proof of concept start Nexus as Docker container.
 
-Sonatype offers a OpenShift compatible docker image. See also [the Docker configuration](https://github.com/sonatype/docker-nexus3).
+Sonatype offers an OpenShift compatible docker image. See also [the Docker configuration](https://github.com/sonatype/docker-nexus3).
 
 To start in foreground
 
@@ -64,7 +64,7 @@ If you change the default password, change also the password in `provision.sh`.
 
 ## Test-Run
 
-After you the container start make `provision.sh` executable and run it.
+After you start the Docker container, make `provision.sh` executable and run it.
 
 ```bash
 # chmod +x provision.sh
